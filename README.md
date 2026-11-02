@@ -29,7 +29,10 @@ Context: Create a complete UGC ad for the product "Electric Trimmer" targeting o
 Task:
 1) 3 Hooks: Generate 3 different scroll stopping hooks for the first 3 seconds addressing common problems (example - Bad shaving, skin cutting damage from blade trimmer).
 
-2) 3 UGC video Ad scripts (30-45 seconds each): • Two column layout: [Camera shot] and [Voiceover/ On screen text]. • Follow the structure: Hook→Problem→Solution→Result→Call to Action(CTA). • Keep the language natural, authentic and conversation (not salesy and corporate)
+2) 3 UGC video Ad scripts (30-45 seconds each):
+  • Two column layout: [Camera shot] and [Voiceover/ On screen text].
+  • Follow the structure: Hook→Problem→Solution→Result→Call to Action(CTA).
+  • Keep the language natural, authentic and conversation (not salesy and corporate)
 
 3) Platform Caption and CTA: Write 3 captions for instagram reels and YouTube shorts with hashtags and call to action (CTA) link placeholder for direct order/booking.
 
