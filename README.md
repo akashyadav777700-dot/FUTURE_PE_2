@@ -4,7 +4,7 @@
 ## 👨‍💻 Project Information
 - **Program:** Future Interns
 - **Task:** Prompt Engineering — Task 2
-- **Author:** [Aapka Naam]
+- **Author:** Akash Yadav
 - **GitHub Profile:** https://github.com/akashyadav777700-dot
 
 ## 🚀 Task Overview
