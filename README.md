@@ -274,7 +274,7 @@ The main focus is to create authentic, relatable, and engaging short-form video 
 
 
 ## 🧠 3. Prompt Engineering Approach & Learnings
-- **Technique Used:** [Jaise: Chain-of-Thought / Few-Shot / Role-Based Prompting]
+- **Technique Used:** [Example: Chain-of-Thought / Few-Shot / Role-Based Prompting]
 - **Key Takeaway:** How structured constraints and clear context drastically improve the quality, relevance, and accuracy of AI responses.
 
 ---
